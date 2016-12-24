@@ -3,7 +3,7 @@ This is to gather those capable of making an Arduino library to create a HomeKit
 
 #This does NOT contain any code or anything.
 
-If this repository gains tracktion, it will live...
+If this repository gains tracktion, it will live... for now, there is __working code__ for the ESP8266 in https://github.com/HomeACcessoryKid/ESP8266-HomeKit but it has not been converted to an [Arduino library](https://www.arduino.cc/en/hacking/libraries) yet. 
 
 #Feel inspired by these repositories:
 

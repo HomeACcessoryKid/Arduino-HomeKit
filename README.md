@@ -1,7 +1,7 @@
 # Arduino-HomeKit
 This is to gather those capable of making an Arduino library to create a HomeKit foundation
 
-## There is an inititive to develop the code further at the Dutch hacker convention SHA-2017. See issue#2 for details!
+## There is an inititive to develop Arduino code at the Dutch hacker convention SHA-2017. See issue#2 for details!
 
 #This does NOT contain any code or anything.
 
